@@ -1,0 +1,19 @@
+.bg-custom
+{
+    background-color: #303f9f;
+}
+.navbar .nav-item .nav-link:hover
+{
+    background-color: red;
+    color:#303f9f;
+    border-radius: 15px;
+}
+.bg-color
+{
+    background-image: url("images/bg1.jpeg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
